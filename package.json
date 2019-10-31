@@ -1,0 +1,19 @@
+{
+  "name": "@palatech/pala-utils",
+  "version": "0.0.1",
+  "description": "Utilities for Pala JavaScript projects.",
+  "main": "src/index.tsx",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpyne17/pala-utils-js.git"
+  },
+  "author": "James Pyne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jpyne17/pala-utils-js/issues"
+  },
+  "homepage": "https://github.com/jpyne17/pala-utils-js#readme"
+}
