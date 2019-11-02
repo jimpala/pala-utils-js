@@ -1,6 +1,7 @@
 {
   "name": "@palatech/pala-utils",
   "version": "0.1.0",
+  "private": false,
   "description": "Utilities for Pala JavaScript projects.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
